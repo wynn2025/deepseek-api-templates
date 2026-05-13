@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+demo_*.json
+batch_results.json
+*.tmp
+.env
+README.md.bak
+xianyu_listing.md

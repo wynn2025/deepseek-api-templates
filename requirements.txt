@@ -1,0 +1,3 @@
+# DeepSeek API Templates - Zero external dependencies!
+# Uses only Python standard library + urllib
+# Set DEEPSEEK_API_KEY and run any template
